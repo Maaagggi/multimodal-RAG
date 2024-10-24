@@ -56,8 +56,8 @@ This project requires `poppler-utils` for PDF processing.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/Maaagggi/multimodal-RAG.git
+cd multimodal-RAG
 ```
 
 ### 2. Install Python Packages
